@@ -48,7 +48,7 @@ header::after {
   padding-block-end: 0px;
   
 }
-. .linkc{
+ .linkc{
   float: none;
 }
 
@@ -94,9 +94,9 @@ footer a:last-child {
 header, footer {
   background: #f8f8f8;
 }
-.linkc{
-  align-items: center;
-  margin: 70px ;
+/* .linkc{
+  align-items: normal;
+  margin: 70px ; */
   
 }
 .footer {
